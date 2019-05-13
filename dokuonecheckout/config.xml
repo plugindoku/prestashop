@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>dokuonecheckout</name>
+            <displayName><![CDATA[DOKU Payment Gateway]]></displayName>
+            <version><![CDATA[1.1]]></version>
+            <description><![CDATA[DOKU IS INDONESIA\’S LARGEST AND FASTEST GROWING PROVIDER OF ELECTRONIC PAYMENT. We provide electronic payment processing, online and in mobile applications. Enabling e-Commerce merchants of any size to accept a wide range of online payment options, from credit cards to emerging payment types.]]></description>
+            <author><![CDATA[DOKU]]></author>
+            <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall>Are you sure you want to uninstall?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>
